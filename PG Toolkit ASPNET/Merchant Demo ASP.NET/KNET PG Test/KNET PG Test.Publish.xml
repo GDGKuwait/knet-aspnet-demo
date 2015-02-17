@@ -1,0 +1,34 @@
+<publishData>
+  <publishTarget publishUrl="C:\Documents and Settings\MNT\My Documents\Projects\KNET\PG\Merchant Demo ASP.NET\Published\">
+    <file relUrl="Result.aspx" publishTime="11/10/2009 09:38:25" />
+    <file relUrl="Response.aspx" publishTime="11/10/2009 10:20:19" />
+    <file relUrl="bin/KNET PG Test.dll" publishTime="11/15/2009 12:36:13" />
+    <file relUrl="st.css" publishTime="11/08/2009 12:13:49" />
+    <file relUrl="Default.aspx" publishTime="11/08/2009 13:23:21" />
+    <file relUrl="Page.aspx" publishTime="11/08/2009 12:57:35" />
+    <file relUrl="Buy.aspx" publishTime="11/10/2009 13:24:56" />
+    <file relUrl="knet.gif" publishTime="11/08/2009 12:14:05" />
+    <file relUrl="Web.config" publishTime="11/08/2009 14:20:44" />
+    <file relUrl="Details.aspx" publishTime="11/08/2009 13:24:17" />
+    <file relUrl="Error.aspx" publishTime="11/08/2009 13:13:22" />
+    <file relUrl="bin/KNET PG Test.pdb" publishTime="11/15/2009 12:36:13" />
+    <file relUrl="knet.jpg" publishTime="11/08/2009 12:14:05" />
+    <file relUrl="bin/Interop.e24PaymentPipeLib.dll" publishTime="11/10/2009 09:38:56" />
+  </publishTarget>
+  <publishTarget publishUrl="C:\Documents and Settings\MNT\My Documents\Visual Studio 2008\Projects\KNET PG Test\Published\">
+    <file relUrl="Result.aspx" publishTime="11/10/2009 09:38:25" />
+    <file relUrl="Response.aspx" publishTime="11/10/2009 09:34:08" />
+    <file relUrl="bin/KNET PG Test.dll" publishTime="11/10/2009 09:38:56" />
+    <file relUrl="st.css" publishTime="11/08/2009 12:13:49" />
+    <file relUrl="Default.aspx" publishTime="11/08/2009 13:23:21" />
+    <file relUrl="Page.aspx" publishTime="11/08/2009 12:57:35" />
+    <file relUrl="Buy.aspx" publishTime="11/09/2009 13:02:51" />
+    <file relUrl="knet.gif" publishTime="11/08/2009 12:14:05" />
+    <file relUrl="Web.config" publishTime="11/08/2009 14:20:44" />
+    <file relUrl="Details.aspx" publishTime="11/08/2009 13:24:17" />
+    <file relUrl="Error.aspx" publishTime="11/08/2009 13:13:22" />
+    <file relUrl="bin/KNET PG Test.pdb" publishTime="11/10/2009 09:38:56" />
+    <file relUrl="knet.jpg" publishTime="11/08/2009 12:14:05" />
+    <file relUrl="bin/Interop.e24PaymentPipeLib.dll" publishTime="11/10/2009 09:38:56" />
+  </publishTarget>
+</publishData>

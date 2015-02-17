@@ -1,0 +1,95 @@
+/* --- Saqib Javaid */
+html
+{
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+}
+
+
+body
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12pt;
+	margin: 0px 0px 0px 0px;
+}
+
+a:link{
+	color: #0e5ba3;
+	text-decoration: none;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	border: #FF6600;
+	font-weight:bold;
+	font-size: 20px;
+}
+A:visited {
+	color: #0e5ba3;
+	text-decoration: none;
+	font-weight:bold;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	border: #FF6600;
+	font-size: 20px;
+}
+a:hover
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color:#0e5ba3;
+	font-weight:normal;
+	font-weight:bold;
+	text-decoration:underline;
+	border: #FF3300;
+}
+
+.heading
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight:bold;
+	color: #306DC8;
+	padding-bottom:15px;
+	background-color: #ffffff; 
+	
+}
+.msg
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight:bold;
+	color:green;
+	padding-bottom:15px;
+	background-color: #ffffff; 
+}
+.error
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight:bold;
+	color: #ff0000;
+	padding-bottom:15px;
+}
+
+.text{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-color:#333333;
+	font-size: 12px;
+	color: #666666;
+	padding-left:3px;
+}
+.tdfixed
+{
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	padding:2px;
+	background-color:#eFeFeF;
+	
+}
+
+.tdwhite
+{
+	align:center;
+	font-size:11px;
+	color:#666666;
+	font-family:verdana;
+	background-color: #ffffff; 
+	padding:1px;
+}
